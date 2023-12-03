@@ -4,7 +4,7 @@ cache
 .*.swp
 venv
 .idea
-*.log
+*.log, 
 example/bin
 contracts/out
 state.json
